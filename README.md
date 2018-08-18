@@ -13,3 +13,7 @@ Using its embedded accelerometer and gyroscope, we captured 3-axial linear accel
 * Deployment of Keras model
 * Comparison of different classification algorithms-KNN, RandomForest, SVM, Logistic Regression
 * GridSearch optimisation
+
+## Dependencies:
+Python 3.5+ with Anaconda  
+[Tensorflow](https://www.tensorflow.org), [keras](https://keras.io), sklearn, pandas ,matplotlib
